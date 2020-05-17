@@ -2,13 +2,14 @@
 Basic Totp version otp generator from secret key or qr code
 
 
-#Usage
+## Usage
+
 1. git clone https://github.com/nto4/TotpOtpGenerator.git
 2. cd /TotpOtpGenerator
-3. mkvirtualenv myenv
-4. workon myenv
-5. pip install -r requirements.txt
-6. python capture.py
+3. mkvirtualenv capture
+4. workon capture
+5. Run `pip install -r requirements.txt`
+6. Run `Python capture.py`
 
 
 ##Defaults
