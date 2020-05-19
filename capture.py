@@ -31,11 +31,4 @@ Default parameters;
 6 digit otp
 30 sec interval
 ptotp default algorithm openssl_sha1 
-
-
-git clone git.nto4/xasad
-mkvirtualenv myenv
-workon myenv
-pip install -r requirements.txt
-python capture.py
 """
